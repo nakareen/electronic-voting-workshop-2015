@@ -43,4 +43,5 @@ public abstract class Group{
 	 * Sets the group's element size in bytes to 'size'
 	 */
 	public abstract void setElementSize(int size);
+	
 }	
