@@ -15,7 +15,7 @@ public class Parameters {
 	//The number of total candidates
 	public static int candidatesNumber;
 	//The mapping between candidates and group elements
-	public static HashMap<String, Long> candidatesMap;
+	public static HashMap<String, byte[]> candidatesMap;
 	//The time-stamp accuracy level, either 1 or 2, 1 for HH:MM format, 2 for HH:MM:SS format
 	public static int timeStampLevel;
 	
